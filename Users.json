@@ -11,6 +11,12 @@
       "role": "member",
       "tokenQuota": 0,
       "updatedAt": "2026-07-01T15:09:08.405Z"
+    },
+    {
+      "id": 8648112204,
+      "role": "member",
+      "tokenQuota": 1,
+      "updatedAt": "2026-07-01T19:00:45.121Z"
     }
   ]
 }
